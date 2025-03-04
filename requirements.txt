@@ -1,0 +1,14 @@
+numpy==1.24.3
+pandas==2.0.2
+torch==2.0.1
+torchvision==0.15.2
+syft==0.8.0
+web3==6.5.0
+cryptography==41.0.1
+matplotlib==3.7.1
+scikit-learn==1.2.2
+pydiffprivlib==0.6.1
+tenseal==0.3.12
+flask==2.3.2
+pyyaml==6.0
+tqdm==4.65.0 
