@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
-Data Market & Privacy Computing - Main Program Entry
-"""
-
 import os
 import sys
 import logging
